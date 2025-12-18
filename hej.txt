@@ -1,3 +1,4 @@
 Här kommer rad nummer 2
 Här kommer rad nummer 2
 och till sist rad nummer 3
+Detta är ett test
